@@ -15,4 +15,10 @@ To redeem a promo code, visit microsoftazurepass.com and follow these Azure Pass
  
  # building data 
  
+https://BCX22-08.build-big.ch/
+user:
+BCX22-User
+password:
+#BCX22Bosch
+
  
